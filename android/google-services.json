@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116999559578",
+    "firebase_url": "https://wecodefinal-default-rtdb.firebaseio.com",
+    "project_id": "wecodefinal",
+    "storage_bucket": "wecodefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116999559578:android:d4ea5cc17fda87020c0223",
+        "android_client_info": {
+          "package_name": "com.example.moneyexchange_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116999559578-vtnrajcirk44ljola3jd0afpnkuni3sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwNX_rj0mOllWtfZ9gf0eJR_5cWfyjfCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116999559578-vtnrajcirk44ljola3jd0afpnkuni3sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
